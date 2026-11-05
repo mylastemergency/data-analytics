@@ -1,15 +1,13 @@
 # Group Deliverables — Lana's Dog Walking Business
 
-These files are copies of deliverables from the Week 2 group project.
+Copies of Week 2 group project deliverables.
 
 Original group repository:
 https://github.com/FaizK9255/W2_Workshop
 
-## Files and attribution
+- Alizon Martinez: AlizonMartinez_Ex2B_ERD_Draft.pdf
+- Faiz Khan: khan_Ex2B_ERD.pdf
+- Alizon Martinez: Martinez_Ex3A_create_tables.sql
+- Faiz Khan: khan_Ex3A_tables.xlsx
 
-- `AlizonMartinez_Ex2B_ERD_Draft.pdf` — created by Alizon Martinez
-- `khan_Ex2B_ERD.pdf` — created by Faiz Khan
-- `Martinez_Ex3A_create_tables.sql` — created by Alizon Martinez
-- `khan_Ex3A_tables.xlsx` — created by Faiz Khan
-
-These files are preserved here as group-project reference materials. They are not represented as individually authored work.
+These are group-project reference materials, not individually authored work.
